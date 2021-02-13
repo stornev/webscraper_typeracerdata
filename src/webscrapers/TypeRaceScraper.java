@@ -173,7 +173,7 @@ public class TypeRaceScraper extends WebScraper {
 		}
 		
 		toFileString = out;
-		outputToFile("C:\\Users\\Tim\Desktop\\code\\tests\\tables.txt");
+		outputToFile("C:\\Users\\(name)\Desktop\\something.txt");
 	}
 
 	public void setUserData() {
